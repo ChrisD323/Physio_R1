@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/mainActivity">
+
+    <fragment
+        android:id="@+id/mainActivity"
+        android:name="com.example.new_ergasia.MainActivity_R1"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main">
+    <action
+        android:id="@+id/action_FirstFragment_to_SecondFragment"
+        app:destination="@id/secondActivity" />
+    </fragment>
+    <fragment
+        android:id="@+id/secondActivity"
+        android:name="com.example.new_ergasia.SecondActivity_R1"
+        android:label="activity_second"
+        tools:layout="@layout/activity_second_r1">
+
+        <action
+            android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/mainActivity" />
+
+    </fragment>
+</navigation>

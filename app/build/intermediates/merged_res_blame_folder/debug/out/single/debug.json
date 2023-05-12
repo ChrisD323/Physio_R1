@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_user_entry.png.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/user_entry.png"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_row_border.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/row_border.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/layout_activity_user_r9.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_user_r9.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_create_physio.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/create_physio.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_checked_user.png.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/checked_user.png"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_home_button.png.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/home_button.png"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/layout_activity_choose_adoctor_r9.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_choose_adoctor_r9.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_table_border.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/table_border.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/menu_menu.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_back_button.png.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/back_button.png"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_baseline_key_24.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/baseline_key_24.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/layout_activity_make_an_appointment_r9.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_make_an_appointment_r9.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/xml_network_security_config.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_appointment_icon.png.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/appointment_icon.png"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/layout_activity_login_r1.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_login_r1.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_admin_user.png.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/admin_user.png"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_location_icon.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/location_icon.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/navigation_navigation.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/navigation/navigation.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.new_ergasia.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/layout_activity_second_r1.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_second_r1.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/layout_list_of_physio_r1.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/layout/list_of_physio_r1.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_background.png.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/background.png"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_add_user.png.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/add_user.png"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_logo.png.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/layout_activity_r1.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_r1.xml"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_help_button.png.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/help_button.png"
+    },
+    {
+        "merged": "com.example.new_ergasia.app-merged_res-41:/drawable_name_icon.xml.flat",
+        "source": "com.example.new_ergasia.app-main-43:/drawable/name_icon.xml"
+    }
+]
