@@ -1,43 +1,31 @@
 [
     {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-mergeDebugResources-40:\\layout\\activity_user_r9.xml",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-main-43:\\layout\\activity_user_r9.xml"
+        "merged": "com.example.new_ergasia.app-mergeDebugResources-40:/layout/activity_second_r1.xml",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_second_r1.xml"
     },
     {
         "merged": "com.example.new_ergasia.app-mergeDebugResources-40:/layout/activity_login_r1.xml",
         "source": "com.example.new_ergasia.app-main-43:/layout/activity_login_r1.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-mergeDebugResources-40:\\layout\\activity_choose_adoctor_r9.xml",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-main-43:\\layout\\activity_choose_adoctor_r9.xml"
+        "merged": "com.example.new_ergasia.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-mergeDebugResources-40:\\layout\\activity_second_r1.xml",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-main-43:\\layout\\activity_second_r1.xml"
+        "merged": "com.example.new_ergasia.app-mergeDebugResources-40:/layout/activity_make_an_appointment_r9.xml",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_make_an_appointment_r9.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-mergeDebugResources-40:\\layout\\activity_make_an_appointment_r9.xml",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-main-43:\\layout\\activity_make_an_appointment_r9.xml"
-    },
-    {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-mergeDebugResources-40:\\layout\\activity_login_r1.xml",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-main-43:\\layout\\activity_login_r1.xml"
-    },
-    {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-mergeDebugResources-40:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-main-43:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-mergeDebugResources-40:\\layout\\activity_r1.xml",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-main-43:\\layout\\activity_r1.xml"
+        "merged": "com.example.new_ergasia.app-mergeDebugResources-40:/layout/activity_user_r9.xml",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_user_r9.xml"
     },
     {
         "merged": "com.example.new_ergasia.app-mergeDebugResources-40:/layout/activity_r1.xml",
         "source": "com.example.new_ergasia.app-main-43:/layout/activity_r1.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-mergeDebugResources-40:\\layout\\list_of_physio_r1.xml",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.5\\com.example.new_ergasia.app-main-43:\\layout\\list_of_physio_r1.xml"
+        "merged": "com.example.new_ergasia.app-mergeDebugResources-40:/layout/activity_choose_adoctor_r9.xml",
+        "source": "com.example.new_ergasia.app-main-43:/layout/activity_choose_adoctor_r9.xml"
     },
     {
         "merged": "com.example.new_ergasia.app-mergeDebugResources-40:/layout/list_of_physio_r1.xml",

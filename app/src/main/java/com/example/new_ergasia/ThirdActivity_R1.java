@@ -154,7 +154,7 @@ public class ThirdActivity_R1 extends AppCompatActivity {
                     case R.id.help:
                         ExampleDialog exampleDialog = new ExampleDialog();
                         exampleDialog.setHeader("Help");
-                        exampleDialog.setText("Please give a name,location and password for your physical therapy clinic.");
+                        exampleDialog.setText("Please give a name,location and AFM for your physical therapy clinic.");
                         exampleDialog.show(getSupportFragmentManager(),"example dialog");
                         return true;
                     case R.id.back:
